@@ -51,6 +51,14 @@ body {
     letter-spacing: -0.5px;
 }
 
+.trademark {
+    color: #e74c3c;
+    font-size: 0.6em;
+    font-weight: bold;
+    vertical-align: super;
+    margin-right: 2px;
+}
+
 .main-nav {
     transition: all 0.3s ease;
 }
